@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/paranoids/static/css/main.f855e6bc.css",
-    "main.js": "/paranoids/static/js/main.a4b94c49.js",
+    "main.css": "/paranoids/static/css/main.a58ed764.css",
+    "main.js": "/paranoids/static/js/main.bab67ade.js",
     "static/js/453.f903cda3.chunk.js": "/paranoids/static/js/453.f903cda3.chunk.js",
-    "static/media/logo.svg": "/paranoids/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/DSC09832.jpg": "/paranoids/static/media/DSC09832.bc11dde110a8d05393aa.jpg",
+    "static/media/OtherHand.otf": "/paranoids/static/media/OtherHand.b361b87ae21d5660d132.otf",
     "index.html": "/paranoids/index.html",
-    "main.f855e6bc.css.map": "/paranoids/static/css/main.f855e6bc.css.map",
-    "main.a4b94c49.js.map": "/paranoids/static/js/main.a4b94c49.js.map",
+    "main.a58ed764.css.map": "/paranoids/static/css/main.a58ed764.css.map",
+    "main.bab67ade.js.map": "/paranoids/static/js/main.bab67ade.js.map",
     "453.f903cda3.chunk.js.map": "/paranoids/static/js/453.f903cda3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a4b94c49.js"
+    "static/css/main.a58ed764.css",
+    "static/js/main.bab67ade.js"
   ]
 }
