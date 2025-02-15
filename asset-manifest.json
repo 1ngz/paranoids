@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/paranoids/static/css/main.a58ed764.css",
-    "main.js": "/paranoids/static/js/main.bab67ade.js",
+    "main.js": "/paranoids/static/js/main.b17a2e4b.js",
     "static/js/453.f903cda3.chunk.js": "/paranoids/static/js/453.f903cda3.chunk.js",
     "static/media/DSC09832.jpg": "/paranoids/static/media/DSC09832.bc11dde110a8d05393aa.jpg",
     "static/media/OtherHand.otf": "/paranoids/static/media/OtherHand.b361b87ae21d5660d132.otf",
     "index.html": "/paranoids/index.html",
     "main.a58ed764.css.map": "/paranoids/static/css/main.a58ed764.css.map",
-    "main.bab67ade.js.map": "/paranoids/static/js/main.bab67ade.js.map",
+    "main.b17a2e4b.js.map": "/paranoids/static/js/main.b17a2e4b.js.map",
     "453.f903cda3.chunk.js.map": "/paranoids/static/js/453.f903cda3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a58ed764.css",
-    "static/js/main.bab67ade.js"
+    "static/js/main.b17a2e4b.js"
   ]
 }
